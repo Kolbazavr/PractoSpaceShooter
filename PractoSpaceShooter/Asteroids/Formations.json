@@ -1,0 +1,169 @@
+[
+    {
+        "name" : "single",
+        "asteroids" : [
+            {
+                "position" : 1,
+                "xOffset" : 0,
+                "moveStraight" : true,
+            }
+        ]
+    },
+    {
+        "name" : "double1",
+        "asteroids" : [
+            {
+                "position" : 1,
+                "xOffset" : 0,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 3,
+                "xOffset" : 0,
+                "moveStraight" : true,
+            }
+        ]
+    },
+    {
+        "name" : "double2",
+        "asteroids" : [
+            {
+                "position" : 6,
+                "xOffset" : 0,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 8,
+                "xOffset" : 0,
+                "moveStraight" : true,
+            }
+        ]
+    },
+    {
+        "name" : "triangle",
+        "asteroids" : [
+            {
+                "position" : 3,
+                "xOffset" : 1,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 4,
+                "xOffset" : 0,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 5,
+                "xOffset" : 1,
+                "moveStraight" : true,
+            }
+        ]
+    },
+    {
+        "name" : "wave",
+        "asteroids" : [
+            {
+                "position" : 2,
+                "xOffset" : 0,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 3,
+                "xOffset" : 1,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 2,
+                "xOffset" : 2,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 4,
+                "xOffset" : 3,
+                "moveStraight" : true,
+            }
+        ]
+    },
+    {
+        "name" : "wall",
+        "asteroids" : [
+            {
+                "position" : 1,
+                "xOffset" : 0,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 2,
+                "xOffset" : 1,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 3,
+                "xOffset" : 2,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 4,
+                "xOffset" : 3,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 7,
+                "xOffset" : 4,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 8,
+                "xOffset" : 5,
+                "moveStraight" : true,
+            }
+        ]
+    },
+    {
+        "name" : "line",
+        "asteroids" : [
+            {
+                "position" : 2,
+                "xOffset" : 0,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 2,
+                "xOffset" : 2,
+                "moveStraight" : true,
+            },
+            {
+                "position" : 3,
+                "xOffset" : 4,
+                "moveStraight" : true,
+            }
+        ]
+    },
+    {
+        "name" : "moving",
+        "asteroids" : [
+            {
+                "position" : 1,
+                "xOffset" : 0,
+                "moveStraight" : false,
+            },
+            {
+                "position" : 7,
+                "xOffset" : 0,
+                "moveStraight" : false,
+            }
+        ]
+    },
+    {
+        "name" : "random1",
+        "asteroids" : [
+            
+        ]
+    },
+    {
+        "name" : "random2",
+        "asteroids" : [
+            
+        ]
+    },
+]
